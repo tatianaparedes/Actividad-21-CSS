@@ -1,0 +1,23 @@
+﻿p {
+    font-family: Tahoma;
+}
+
+p {
+    color: #ff0000;
+}
+
+p {
+    text-align:center;
+}
+
+p {
+    font-family: Tahoma;
+    color: #ff0000;
+    text-align: center;
+}
+
+p, h1 {
+    font-family: Tahoma;
+    color: #ff0000;
+    text-align: center;
+}
